@@ -1,0 +1,20 @@
+Power BI Project
+The Aim of this project is to create an interactive Dashboard using Power BI.
+The dataset used for this project is provided by Power BI. This is a inpsired project and data set ie .CSV file is available to download 
+
+
+Procedure:
+
+1) Connecting Database by importing raw data in excel file format into Power BI software
+2) Cleaning the raw data  : removing redundant values , missing values , columns ie data cleaning step : Power Query Editor : DAX
+3) Analyzing Tables & Relations : creating data relationships using data model
+4) Developing model
+5) Creating Interactive Dashboard / Report
+
+After implementing steps their are three main changes that have been made in the dataset.
+a. Made the first row a header.
+b. Get rid of missing and corrupt data. e.g. Postal Code
+c. Created a new column: Delivery Days from Order Data and ship Date.
+
+
+Outcomes : Analysed the Yearly sales and derieved useful insights
